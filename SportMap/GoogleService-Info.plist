@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>185124360071-s57srolooddb3ug4etiunjp5jae49qgo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.185124360071-s57srolooddb3ug4etiunjp5jae49qgo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNtWCJkrtprRmigRQud13Tw-qO2gLvRxI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>185124360071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Longa-bonga.SportMap</string>
+	<key>PROJECT_ID</key>
+	<string>sportmap-740d5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sportmap-740d5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:185124360071:ios:2c0a9a3c575aad84</string>
+	<key>DATABASE_URL</key>
+	<string>https://sportmap-740d5.firebaseio.com</string>
+</dict>
+</plist>
