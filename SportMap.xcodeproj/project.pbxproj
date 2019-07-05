@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -18,7 +18,7 @@
 		AB4DFD0422CB9797007EACF4 /* SportMapTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4DFD0322CB9797007EACF4 /* SportMapTests.swift */; };
 		AB4DFD0F22CB9797007EACF4 /* SportMapUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4DFD0E22CB9797007EACF4 /* SportMapUITests.swift */; };
 		AB4DFD1D22CB9B50007EACF4 /* SportGround.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB4DFD1C22CB9B50007EACF4 /* SportGround.swift */; };
-		ABA2607D22CD5D7D005CA57B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ABA2607C22CD5D7D005CA57B /* GoogleService-Info.plist */; };
+		ABC0432922CE1F67007DA404 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ABC0432822CE1F67007DA404 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,7 +59,7 @@
 		AB4DFD0E22CB9797007EACF4 /* SportMapUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportMapUITests.swift; sourceTree = "<group>"; };
 		AB4DFD1022CB9797007EACF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB4DFD1C22CB9B50007EACF4 /* SportGround.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportGround.swift; sourceTree = "<group>"; };
-		ABA2607C22CD5D7D005CA57B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		ABC0432822CE1F67007DA404 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		AE5F49597AFC6D4512ADF473 /* Pods-SportMapUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportMapUITests.release.xcconfig"; path = "Target Support Files/Pods-SportMapUITests/Pods-SportMapUITests.release.xcconfig"; sourceTree = "<group>"; };
 		DBEC488ED3782D54C1D5F742 /* Pods-SportMap.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportMap.debug.xcconfig"; path = "Target Support Files/Pods-SportMap/Pods-SportMap.debug.xcconfig"; sourceTree = "<group>"; };
 		E76FDA1285D78FCACDD89E13 /* Pods-SportMapTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SportMapTests.release.xcconfig"; path = "Target Support Files/Pods-SportMapTests/Pods-SportMapTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -125,7 +125,7 @@
 				AB4DFCF522CB9797007EACF4 /* Assets.xcassets */,
 				AB4DFCF722CB9797007EACF4 /* LaunchScreen.storyboard */,
 				AB4DFCFA22CB9797007EACF4 /* Info.plist */,
-				ABA2607C22CD5D7D005CA57B /* GoogleService-Info.plist */,
+				ABC0432822CE1F67007DA404 /* GoogleService-Info.plist */,
 			);
 			path = SportMap;
 			sourceTree = "<group>";
@@ -168,7 +168,6 @@
 				1662F822D347D3F272D12556 /* Pods-SportMapUITests.debug.xcconfig */,
 				AE5F49597AFC6D4512ADF473 /* Pods-SportMapUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -281,7 +280,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AB4DFCF922CB9797007EACF4 /* LaunchScreen.storyboard in Resources */,
-				ABA2607D22CD5D7D005CA57B /* GoogleService-Info.plist in Resources */,
+				ABC0432922CE1F67007DA404 /* GoogleService-Info.plist in Resources */,
 				AB4DFCF622CB9797007EACF4 /* Assets.xcassets in Resources */,
 				AB4DFCF422CB9796007EACF4 /* Main.storyboard in Resources */,
 			);
